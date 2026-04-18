@@ -12,7 +12,7 @@
 
 ## 🖥️ Live Demo
 
-👉 **[your-username.github.io/whatsapp-chat-viewer](https://mohdsaqib19.github.io/whatsapp-chat-viewer)**
+👉 **[mohdsaqib19.github.io/whatsapp-chat-viewer](https://mohdsaqib19.github.io/whatsapp-chat-viewer)**
 
 ---
 
