@@ -102,4 +102,4 @@ MIT License — free to use, modify, and distribute.
 
 ---
 
-*Built with care — 100% client-side, 100% private.*
+*100% client-side, 100% private.*
